@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haridev811
-- 👀 I’m interested in ... watching movies, web series and anime.
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in playing games, watching movies, web series and anime.
+- 🌱 I’m currently learning Data Science, Web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...haridev811@gmail.com
 
